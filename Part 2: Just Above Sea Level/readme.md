@@ -1,0 +1,1 @@
+Did you know that KQL was was named after Jacques Cousteau? He was an undersea pioneer and one of the many shows that the creator watched as a kid. KQL was made to query the cloud with clustering and compute.

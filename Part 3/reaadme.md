@@ -1,0 +1,1 @@
+Search query: query structure to search, locate information and produce results.
